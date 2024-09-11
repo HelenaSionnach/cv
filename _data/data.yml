@@ -60,28 +60,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I started out as an assistant sysadmin at Herzena Uni in Saint Petersburg, solving various hardware and software
+      problems. Then I was a PM at a moderatly large TelCo corparation in Moscow. My first coding job was for a all stop shop
+      developing web and mobile apps for intl clients. For about 11 years I worked as front-end & back-end dev, finally making a move 
+      to cloud architecture (mainly AWS, some Azure)
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: BSc in Computer Science
         university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -91,6 +79,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
 
 experiences:
     title: Experiences
